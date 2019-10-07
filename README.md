@@ -1,5 +1,6 @@
 # EasyDB
 A Simple Database System
+---
 This Porject is an implementation of a database system that applies colum store, left deep join order and hash join.
 ---
 The speed of query processing is optimized with following steps
